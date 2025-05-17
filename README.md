@@ -24,6 +24,7 @@
 <h4>- 🌱 I’m currently learning AI </h4>
 <h4>- 📄 Please have a look at my Résumé () for more details about me.</h4>
 <h4>- 🌐 Personal website ()</h4>
+<h4>- 📫 How to reach me: [**jaime**fung1159@gmail.com](mailto:jaimefung1159@gmail.com)</h4>
 <h4>- 🔍 I’m currently open for an Intern or a new job opportunity.</h4>
 <h4>- ⚡ Fun fact: I play Soccer and Tennis!⚽🎾</h4>
 <br><br>
@@ -69,10 +70,6 @@
   ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
     
-
-<br>
-
-
 
 
 </p>
