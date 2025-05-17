@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jaime Fung </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Jaime-Fung">Jaime Fung</a> 👋</h1>
 
 
 
@@ -24,7 +24,7 @@
 <h4>- 🌱 I’m currently learning AI </h4>
 <h4>- 📄 Please have a look at my Résumé () for more details about me.</h4>
 <h4>- 🌐 Personal website ()</h4>
-<h4>- 📫 How to reach me: jaimefung1159@gmail.com</h4>
+<h4>- 📫 How to reach me: [Durgesh Samariya](https://durgeshsamariya.github.io)</h4>
 <h4>- 🔍 I’m currently open for an Intern or a new job opportunity.</h4>
 <h4>- ⚡ Fun fact: I play Soccer and Tennis!⚽🎾</h4>
 <br><br>
