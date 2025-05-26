@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="www.linkedin.com/in/jaime-fungd">Jaime Fung</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="[www.linkedin.com/in/jaime-fungd](https://www.linkedin.com/in/jaime-fungd)">Jaime Fung</a> 👋</h1>
 
 
 
