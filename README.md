@@ -22,7 +22,7 @@
 <h4>- 💡 I like to explore new technologies and develop software solutions.</h4>
 <h4>- 🎓 I'm currently studying Software Engineer at the Universidad Latina de Costa Rica.</h4>
 <h4>- 🌱 I’m currently learning AI </h4>
-<h4>- 🌐 Personal website ()</h4>
+<h4>- 🌐 Personal website (under maintenance)</h4>
 <h4>- 📫 How to reach me: <a href="">jaimefung1159@gmail.com</a></h4>
 <h4>- 🔍 I’m currently open for an Intern or a new job opportunity.</h4>
 <h4>- ⚡ Fun fact: I play Soccer and Tennis!⚽🎾</h4>
