@@ -14,25 +14,22 @@
 
 I am currently working as part of a collaborative team to develop a mobile application. The team includes a <b>Senior Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
 
-
-<h4>- 📱 Development of the mobile application using <b>React Native</b> and <b>Expo</b>.</h4>
-<h4>- 🧩 Strongly typed development with <b>TypeScript</b> for scalability and maintainability.</h4>
-<h4>- 🗂️ Structured navigation with <b>Expo Router</b>.</h4>
-<h4>- 📦 State management with <b>Redux</b> & <b>Redux Toolkit</b>.</h4>
-<h4>- 🔍 Data fetching and caching with <b>TanStack Query</b>.</h4>
-<h4>- 🎨 Modern and responsive UI design with <b>NativeWind (TailwindCSS)</b>.</h4>
-<h4>- 📖 Implementing <b>Storybook</b> for UI component documentation and visualization.</h4>
-<h4>- 🧪 Automated testing with <b>Jest</b> and <b>React Testing Library</b>.</h4>
-<h4>- 🔗 System designed under a <b>client-server architecture</b> with a clear separation of concerns.</h4>
-<h4>- ⚙️ Backend services built with <b>Python</b> and <b>Django Ninja</b>, exposing RESTful APIs for efficient data handling and integration.</h4>
+<h4>- 📱 Development of the mobile application using React Native and Expo.</h4>
+<h4>- 🧩 Strongly typed development with TypeScript for scalability and maintainability.</h4>
+<h4>- 🗂️ Structured navigation with Expo Router.</h4>
+<h4>- 📦 State management with Redux & Redux Toolkit.</h4>
+<h4>- 🔍 Data fetching and caching with TanStack Query.</h4>
+<h4>- 🎨 Modern and responsive UI design with NativeWind (TailwindCSS).</h4>
+<h4>- 📖 Implementing Storybook for UI component documentation and visualization.</h4>
+<h4>- 🧪 Automated testing with Jest and React Testing Library.</h4>
+<h4>- 🔗 System designed under a client-server architecture with a clear separation of concerns.</h4>
+<h4>- ⚙️ Backend services built with Python and Django Ninja, exposing RESTful APIs for efficient data handling and integration.</h4>
+<h4>- 📋 Project management using Linear and Kanban boards on GitHub for task tracking and sprint planning</h4>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 👨🏻‍💻 About Me
-
-
-
 
 <h4>- 💡 I like to explore new technologies and develop software solutions.</h4>
 <h4>- 🎓 I'm currently studying Software Engineer at the Universidad Latina de Costa Rica.</h4>
@@ -42,10 +39,12 @@ I am currently working as part of a collaborative team to develop a mobile appli
 <h4>- 🔍 I’m currently open for an Intern or a new job opportunity.</h4>
 <h4>- ⚡ Fun fact: I play Soccer and Tennis!⚽🎾</h4>
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
