@@ -1,15 +1,31 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jaime-fungd">Jaime Fung</a> 👋</h1>
+<br><br>
 
-
-
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student,;Universidad+Latina+de+Costa+Rica;Active+Learner/Researcher,;Passionate+about+learning+new+things..."></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+-->
+## 🚀 Current Project
+
+I am currently working as part of a collaborative team to develop a mobile application. The team includes a <b>Senior Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
 
 
+<h4>- 📱 Development of the mobile application using <b>React Native</b> and <b>Expo</b>.</h4>
+<h4>- 🧩 Strongly typed development with <b>TypeScript</b> for scalability and maintainability.</h4>
+<h4>- 🗂️ Structured navigation with <b>Expo Router</b>.</h4>
+<h4>- 📦 State management with <b>Redux</b> & <b>Redux Toolkit</b>.</h4>
+<h4>- 🔍 Data fetching and caching with <b>TanStack Query</b>.</h4>
+<h4>- 🎨 Modern and responsive UI design with <b>NativeWind (TailwindCSS)</b>.</h4>
+<h4>- 📖 Implementing <b>Storybook</b> for UI component documentation and visualization.</h4>
+<h4>- 🧪 Automated testing with <b>Jest</b> and <b>React Testing Library</b>.</h4>
+<h4>- 🔗 System designed under a <b>client-server architecture</b> with a clear separation of concerns.</h4>
+<h4>- ⚙️ Backend services built with <b>Python</b> and <b>Django Ninja</b>, exposing RESTful APIs for efficient data handling and integration.</h4>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -20,32 +36,11 @@
 
 <h4>- 💡 I like to explore new technologies and develop software solutions.</h4>
 <h4>- 🎓 I'm currently studying Software Engineer at the Universidad Latina de Costa Rica.</h4>
-<h4>- 🌱 I’m currently learning</h4>
+<!--<h4>- 🌱 I’m currently learning</h4>-->
 <h4>- 🌐 Personal website (under maintenance)</h4>
 <h4>- 📫 How to reach me: <a href="">jaimefung1159@gmail.com</a></h4>
 <h4>- 🔍 I’m currently open for an Intern or a new job opportunity.</h4>
 <h4>- ⚡ Fun fact: I play Soccer and Tennis!⚽🎾</h4>
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 🚀 Current Project
-
-  <p>
-  I am currently working as part of a collaborative team to develop a mobile application.  
-  The team includes a <b>Senior Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
-  </p>
-<ul>
-  <li>📱 Development of the mobile application using <b>React Native</b> and <b>Expo</b>.</li>
-  <li>🧩 Strongly typed development with <b>TypeScript</b> for scalability and maintainability.</li>
-  <li>🗂️ Structured navigation with <b>Expo Router</b>.</li>
-  <li>📦 State management with <b>Redux</b> & <b>Redux Toolkit</b>.</li>
-  <li>🔍 Data fetching and caching with <b>TanStack Query</b>.</li>
-  <li>🎨 Modern and responsive UI design with <b>NativeWind (TailwindCSS)</b>.</li>
-  <li>📖 Implementing <b>Storybook</b> for UI component documentation and visualization.</li>
-  <li>🧪 Automated testing with <b>Jest</b> and <b>React Testing Library</b>.</li>
-  <li>🔗 System designed under a <b>client-server architecture</b> with a clear separation of concerns.</li>
-  <li>⚙️ Backend services built with <b>Python</b> and <b>Django Ninja</b>, exposing RESTful APIs for efficient data handling and integration.</li>
-</ul>
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
