@@ -13,7 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
 ## 👨🏻‍💻 About Me
 
 
@@ -29,6 +28,26 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🚀 Current Project
+
+  <p>
+  I am currently working as part of a collaborative team to develop a mobile application.  
+  The team includes a <b>Senior Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
+  </p>
+<ul>
+  <li>📱 Development of the mobile application using <b>React Native</b> and <b>Expo</b>.</li>
+  <li>🧩 Strongly typed development with <b>TypeScript</b> for scalability and maintainability.</li>
+  <li>🗂️ Structured navigation with <b>Expo Router</b>.</li>
+  <li>📦 State management with <b>Redux</b> & <b>Redux Toolkit</b>.</li>
+  <li>🔍 Data fetching and caching with <b>TanStack Query</b>.</li>
+  <li>🎨 Modern and responsive UI design with <b>NativeWind (TailwindCSS)</b>.</li>
+  <li>📖 Implementing <b>Storybook</b> for UI component documentation and visualization.</li>
+  <li>🧪 Automated testing with <b>Jest</b> and <b>React Testing Library</b>.</li>
+  <li>🔗 System designed under a <b>client-server architecture</b> with a clear separation of concerns.</li>
+  <li>⚙️ Backend services built with <b>Python</b> and <b>Django Ninja</b>, exposing RESTful APIs for efficient data handling and integration.</li>
+</ul>
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
