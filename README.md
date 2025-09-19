@@ -12,7 +12,7 @@
 -->
 ## 🚀 Current Project
 
-I am currently working as part of a collaborative team to develop a mobile application. The team includes a <b>Senior Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
+I am currently working as part of a collaborative team to develop a mobile application. The team includes a <b>Senior Software Engineer at Microsoft</b>, a <b>Full Stack Developer with strong expertise in mobile development</b>, and a <b>UI/UX Designer responsible for Figma prototypes</b>.  
 
 <h4>- 📱 Development of the mobile application using React Native and Expo.</h4>
 <h4>- 🧩 Strongly typed development with TypeScript for scalability and maintainability.</h4>
